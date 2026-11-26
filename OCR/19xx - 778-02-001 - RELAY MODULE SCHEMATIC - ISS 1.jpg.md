@@ -33,7 +33,7 @@ M778 relay module schematic Title block at bottom left reading sideways.
 - **Dots (junctions):** 1
 - **Wiring (first pass):** 212 connected wire groups from 1,414 runs
 
-Every curve, box, word and wire group: [19xx - 778-02-001 - RELAY MODULE SCHEMATIC - ISS 1 (traced).json](../SCHEMATICS/19xx%20-%20778-02-001%20-%20RELAY%20MODULE%20SCHEMATIC%20-%20ISS%201%20(traced).json) (the CAD file: `19xx - 778-02-001 - RELAY MODULE SCHEMATIC - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - 778-02-001 - RELAY MODULE SCHEMATIC - ISS 1 (traced).json](../SCHEMATICS/19xx%20-%20778-02-001%20-%20RELAY%20MODULE%20SCHEMATIC%20-%20ISS%201%20%28traced%29.json) (the CAD file: `19xx - 778-02-001 - RELAY MODULE SCHEMATIC - ISS 1 (traced).dxf`).
 
 ## Full text
 
