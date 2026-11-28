@@ -1,6 +1,6 @@
 # M778 Relay Module · Communication
 
-Ward-Beck Systems M778. Wiki page: [M778 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M778.html)
+Ward-Beck Systems M778. Wiki page: [M778 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.COMMUNICATION.M778-Relay-Module/)
 
 | Folder | What is in it | Files |
 |---|---|---|

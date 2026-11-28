@@ -1,5 +1,5 @@
 # 19xx - 778-02-001 - RELAY MODULE SCHEMATIC - ISS 1.jpg
-Wiki page: [M778](../../../../PAGES/M778.md)
+Wiki page: [M778](../)
 
 
 - **Year:** unknown (title block (read by eye))
